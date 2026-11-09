@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankingDictionary.Tests/BankingDictionary.Tests.csproj" />
+  <Project Path="BankingDictionary/BankingDictionary.csproj" />
+</Solution>
